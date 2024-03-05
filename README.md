@@ -67,39 +67,48 @@ print("RMSE= ",rmse)
 
 df.head()
 
-![dfhead](https://user-images.githubusercontent.com/119393424/229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5.png)
+![dfhead]![229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/3927101b-bd2f-4d38-85f9-3658e53db72f)
+
 
 df.tail()
 
-![dftail](https://user-images.githubusercontent.com/119393424/229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683.png)
+![dftail]![229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/eb37ace8-cde2-4293-a4ab-758912b03cb8)
+
 
 Array value of X
 
-![xvalue](https://user-images.githubusercontent.com/119393424/229978918-707c006d-0a30-4833-bf77-edd37e8849bb.png)
+![xvalue]![229978918-707c006d-0a30-4833-bf77-edd37e8849bb](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/521efad4-5249-4fb0-9582-a9140a30fe6f)
+
 
 Array value of Y
 
-![yvalue](https://user-images.githubusercontent.com/119393424/229978994-b0d2c87c-bef9-4efe-bba2-0bc57d292d20.png)
+![yvalue]![229978994-b0d2c87c-bef9-4efe-bba2-0bc57d292d20](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/a49217f8-f5d1-4426-b708-5d6b6fcd2a96)
+
 
 Values of Y prediction
 
-![ypred](https://user-images.githubusercontent.com/119393424/229979053-f32194cb-7ed4-4326-8a39-fe8186079b63.png)
+![ypred]![229979053-f32194cb-7ed4-4326-8a39-fe8186079b63](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/a33af6c1-3ab8-40a3-9edb-2a0f804e9971)
+
 
 Array values of Y test
 
-![ytest](https://user-images.githubusercontent.com/119393424/229979114-3667c4b7-7610-4175-9532-5538b83957ac.png)
+![ytest]![229979114-3667c4b7-7610-4175-9532-5538b83957ac](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/476e3976-6965-4fb3-abe1-6ea2228d9ba6)
+
 
 Training Set Graph
 
-![train](https://user-images.githubusercontent.com/119393424/229979169-ad4db5b6-e238-4d80-ae5b-405638820d35.png)
+![train])![229979169-ad4db5b6-e238-4d80-ae5b-405638820d35](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/f37fb65c-d76d-40eb-ab98-2262530ae74d)
+
 
 Test Set Graph
 
-![test](https://user-images.githubusercontent.com/119393424/229979225-ba90853c-7fe0-4fb2-8454-a6a0b921bdc1.png)
+![test]![229979225-ba90853c-7fe0-4fb2-8454-a6a0b921bdc1](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/33e3806a-1159-403c-a89a-93f0e5b40e49)
+
 
 Values of MSE, MAE and RMSE
 
-![mse](https://user-images.githubusercontent.com/119393424/229979276-bb9ffc68-25f8-42fe-9f2a-d7187753aa1c.png)
+![mse]![229979276-bb9ffc68-25f8-42fe-9f2a-d7187753aa1c](https://github.com/Nithish23013509/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149038138/6f6f5e05-1001-4552-8cb6-11cb00f5a824)
+
 
 
 ## Result:
